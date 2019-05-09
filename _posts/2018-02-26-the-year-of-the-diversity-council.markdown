@@ -8,7 +8,7 @@ tags:
 - equality
 - students
 - teaching
-cover-image: "/img/yeswecodeannouncement.jpg"
+cover-image: "/img/posts/yeswecodeannouncement.jpg"
 layout: post
 ---
 

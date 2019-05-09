@@ -9,7 +9,7 @@ tags:
 - austin
 - architecture
 layout: post
-cover-image: /img/library01.jpg
+cover-image: img/posts/library01.jpg
 ---
 
 My friends and I spend a lot of time at the new Austin Central Library, one of the gorgeous, new buildings in town. Every time, I take photo after photo of the walls, windows, reflections, and its mysteries (more on this below). I threw my favorite photos into [CodePen](https://codepen.io/samkap/pen/BJmaor/) and tinkered with CSS `Grid` and responsive grid-columns ([if supported](https://caniuse.com/#search=grid)).

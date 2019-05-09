@@ -2,7 +2,12 @@
 title: Ellen Lupton on The Great Discontent
 date: 2014-04-14 19:00:00 -05:00
 tags:
-- design,texas-state,education,books,quotes,writing
+- design
+- texas-state
+- education
+- books
+- quotes
+- writing
 layout: post
 desc: Sharing my thoughts on another great interview by TGD with one of design’s leading
   ladies, Ellen Lupton, who is a designer and author.
@@ -27,6 +32,3 @@ I just like this as a definition of teaching.
 > “Sharing is the whole point of doing creative work. I love being part of a museum and college community; I like doing lectures and being an author because I have readers and the general public to respond to. In return, I also share other people’s work, read their writing, and go to their lectures and exhibitions. Taking part in the community is important.”
 
 I've been just as guilty as many about sharing my work and my thoughts. I had to force myself to put a blog back up and send my first draft of an article to a magazine editor. I had make a pact with two other designers about putting ourselves out there (so far, so good). Students don’t share their work because they're scared of rejection or judgment. We all are, but how are we supposed to get better if no one judges us? Ellen is right, sharing is the point. Expecting it to have a goal, perhaps, is the problem. Share it for yourself or for someone else. It doesn't matter. Just share it.
-
-
-

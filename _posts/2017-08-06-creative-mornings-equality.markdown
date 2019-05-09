@@ -10,7 +10,7 @@ tags:
 - austin
 - community
 layout: post
-cover-image: /img/tumblr_ottry9Mh1U1s5q8eso4_1280.jpg
+cover-image: /img/posts.tumblr_ottry9Mh1U1s5q8eso4_1280.jpg
 ---
 
 On August 21st, I spoke at [Creative Mornings](https://creativemornings.com/talks/sam-kapila) in Austin, for their global theme, “equality”.
@@ -25,6 +25,6 @@ Creative Mornings uploaded the edited video of my talk, some awesome attendees m
 
 Here are some AWESOME sketches from the talk, by artist, [Ami Plasse](http://amidrawstx.tumblr.com/post/163541590683/creativemorningsaustin-72117-on-the-topic-of).
 
-![Creative Mornings Sketch notes](/img/tumblr_ottry9Mh1U1s5q8eso4_1280.jpg)
+![Creative Mornings Sketch notes](/img/posts/tumblr_ottry9Mh1U1s5q8eso4_1280.jpg)
 
-![Creative Mornings Sketch notes](/img/tumblr_ottry9Mh1U1s5q8eso3_1280.jpg)
+![Creative Mornings Sketch notes](/img/posts/tumblr_ottry9Mh1U1s5q8eso3_1280.jpg)

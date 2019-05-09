@@ -5,7 +5,7 @@ tags:
 - code
 - performance
 layout: post
-cover-image: /img/desktop-01-start.png
+cover-image: img/posts/desktop-01-start.png
 ---
 
 I'm sitting at home, with a sore throat and an almost-gone fever. I loathe feeling unproductive. And, with Firefox's new blazing fast, Quantum, I can't help but feel level more sick and tired. In order to cheer myself up and feel mildly productive, I thought I'd pick apart my site with a few performance speed tools, but briefly. I know better than to get too deep into code when not in a focused state of mind. So, I'll keep this brief and write I go through each step. The following are the steps I took:
