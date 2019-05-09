@@ -1,0 +1,23 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>{{ page.title }} » {{ site.title }} </title>
+<meta name="description" content="{{ page.summary }} {{ site.description }}">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ site.baseurl }}/feed.xml">
+<meta name="google-site-verification" content="l1IVAKljgrF-R5QSMkS4ECiHDzWUK08Xb8YHxe8d7-0" />
+<!-- icons -->
+<link rel="shortcut icon" href="{{ site.baseurl }}/img/favs/favicon.ico">
+<!-- /icons -->
+<!-- og tags -->
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{% if page.title %}{{ page.title }} » {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:locale" content="en_US"> {% if page.og-image %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}"> {% else %} {% if page.cover-image %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}"> {% else %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/og-image.jpg"> {% endif %} {% endif %}
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+<meta property="og:description" content="{{ site.description }}">
+<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}

@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<section class="recent">
+  <div class="greeting">
+    <img src="/img/samkap.jpg" alt="">
+    <h1>Hi, I'm Sameera. I'm based in Austin where I'm a design director, plant and food hobbyist, and former executive and educator. I speak and write about design and inclusion and serve on two advisory boards.</h1>
+  </div>
+  <div class="recent__post-column">
+  <h2 class="recent__header">Recent Posts</h2>
+  {% for post in site.posts limit: 3 %}
+      <article>
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-container">
+        <div class="cover-image-container">
+          {% if post.cover-image %}
+          <img alt="thumbnail for post" src="{{ post.cover-image }}?nf_resize=fit&w=100">
+          {% else %}
+          <img alt="thumbnail for post" src="/img/ampersam.svg?nf_resize=fit&w=40" style="opacity: .5;">
+          {% endif %}
+        </div>
+        <div class="post-container__text">
+          <span class="meta">{{ post.date | date: site.date_format }}</span>
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.content | truncatewords:40 | strip_html }}&nbsp;
+          </p>
+        </div>
+        </div>
+      </a>
+    </article>
+
+  {% endfor %}
+  </div>
+  <div class="recent__clip-column">
+    <h2 class="recent__header">Recently bookmarked</h2>
+    {% assign clips = site.clips | reverse %}
+    {% for post in clips limit: 5 %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <article>
+        <span class="meta">{{ post.date | date: site.date_format }}</span>
+        <h4>{{ post.title | truncate:50 }}</h4>
+      </article>
+    </a>
+    {% endfor %}
+    </div>
+</section>
+
+</main>

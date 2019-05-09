@@ -1,43 +1,62 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
+title: Samera Kapila
+timezone: America/Chicago
+collections:
+  clips:
+    title: Clips
+    output: true
+    permalink: clips/:year/:month/:day/:title
+    values:
+      layout: posts
+  food:
+    title: Food
+    output: true
+    permalink: food/:year/:month/:day/:title
+  posts:
+    title: Posts
+    output: true
+    layout: post
+    values:
+      layout: posts
+  uploads:
+    title: Uploads
+    output: true
+description: Sameera Kapila is a designer, speaker, writer, and educator based in Austin. She is a Design Director at thoughtbot and always cooking.
+baseurl:
+url: https://samkapila.com
+twitter_username: samkap
+github_username: samkap
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+  gfm_quirks: paragraph_end
+  html_to_native: false
 theme: minima
-plugins:
+sass:
+  style: compressed
+gems:
+  - bourbon
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-twitter-plugin
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - gulpfile.js
+date_format: "%b %-d, %Y"
+logo-image: "/img/ampersam.svg"
+nav-breaking-point: 520px
+paginate_path: "/page-:num/"
+sitemap:
+  filename: "/sitemap.xml"
+  exclude:
+    - "/atom.xml"
+    - "/feed.xml"
+    - "/feed/index.xml"
+  include_posts:
+    - "/index.html"
+    - "/clips/index.md"
+  change_frequency_name: change_frequency
+  priority_name: priority
+github:
+  repo: samkap/samkap.github.io
+  branch: master

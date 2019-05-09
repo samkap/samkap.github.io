@@ -1,0 +1,33 @@
+.gr_grid_container {
+  display: grid;
+  width: 100%;
+  padding: $base-spacing 0;
+  margin: 0 auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: $base-spacing;
+  grid-row-gap: $base-spacing;
+  align-items: end;
+}
+.gr_grid_book_container {
+  img {
+    box-sizing: border-box;
+    width: 100%;
+  }
+}
+
+.shell {
+  padding: $large-spacing 5%;
+  background: $color1;
+}
+
+.inclusion {
+  h3 {
+    color: $color2;
+  }
+}
+
+@media screen and (min-width: 50em) {
+  .gr_grid_container {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+}

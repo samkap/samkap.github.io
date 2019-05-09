@@ -1,0 +1,87 @@
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.img-only {
+  margin: 0 -15px;
+
+  img {
+    border: solid $gray 2px;
+  }
+}
+
+.img-only-source {
+  margin: 0 -15px;
+  text-align: center;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+embed,
+iframe,
+object {
+  max-width: 100%;
+}
+
+.fluid-width-video-wrapper {
+  margin: 30px auto;
+}
+/***********************Image GRid***********************/
+.img-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 25%;
+  grid-column-gap: 1%;
+  grid-row-gap: 10px;
+  background: pink;
+
+  img {
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 350px) {
+  .img-grid {
+    grid-template-columns: 49.5% 49.5%;
+    grid-template-rows: 50%;
+  }
+}
+@media all and (min-width: 680px) {
+  .fluid-width-video-wrapper {
+    margin: 20px 0;
+  }
+
+  .img-only {
+    margin: 0 -30px;
+  }
+
+  .img-only-source {
+    margin: 0 -30px;
+  }
+}
+@media screen and (min-width: 650px) {
+  .img-grid {
+    grid-template-columns: 32.677% 32.677% 32.677%;
+
+    .item-d {}
+  }
+}
+
+.cover-image-container {
+  img {
+    max-height: 100px;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
+
+.Speaking .cover-image-container {
+  background-image: url("/img/speaking.jpg");
+  background-size: cover;
+  -webkit-filter: grayscale(1) brightness(0.75) contrast(1.05);
+  filter: grayscale(1) brightness(0.75) contrast(1.05);
+}

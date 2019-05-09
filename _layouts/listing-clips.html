@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<section class="pages listing-posts">
+{{content}}
+
+  {% assign clips = site.clips | reverse %}
+
+  {% for post in clips  %}
+<article>
+  <small>{{ post.date | date: site.date_format }}</small>
+  <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+  <p>{{ post.content | truncatewords:30 | strip_html }}</p>
+</article>
+  {% endfor %}
+</section>
