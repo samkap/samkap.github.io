@@ -2,7 +2,7 @@
 layout: clip
 categories: clips
 published: true
-title: "Link: Council Post: Diversity And Inclusion: Why Difference Matters And How Words Keep It That Way"
+title: "Why Difference Matters And How Words Keep It That Way"
 date: 2019-03-28T04:26:54.268Z
 link: https://www.forbes.com/sites/forbeshumanresourcescouncil/2019/03/12/diversity-and-inclusion-why-difference-matters-and-how-words-keep-it-that-way/#62af6b02105e
 ogtype: article

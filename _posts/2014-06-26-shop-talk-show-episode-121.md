@@ -4,7 +4,7 @@ date: 2014-06-26 19:00:00 -05:00
 tags:
 - podcasts,rwd
 layout: post
-cover-image: "/img/shoptalk_logo.png"
+cover-image: img/shoptalk_logo.png
 
 ---
 

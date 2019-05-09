@@ -9,7 +9,7 @@ tags:
   - community
   - global
 layout: post
-cover-image: https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg
+cover-image: 
 ---
 
 Over the weekend, my sister, Dee (a Product Manager at VISA) and I mentored a workshop at the Austin event for [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/), a worldwide, day-long event featuring "numerous workshops hosted around the globe encouraging and advising newbie speakers to put together \[their\] very first talk proposal and share \[their\] own individual perspective on any subject of interest to people in tech".

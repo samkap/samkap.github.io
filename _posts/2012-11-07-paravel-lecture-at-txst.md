@@ -11,7 +11,7 @@ Tags:
 - texas-state
 - austin
 - rwd
-ccover-image: /img/posts/paravel.jpg
+ccover-image: img/posts/paravel.jpg
 ---
 
 Today, the three Texans behind <a href="http://www.paravelinc.com">Paravel Inc</a> stopped by Texas State's Art &amp; Design Program to talk to our Communication Design students and the general public about their history, their process, and responsive web design. I've been excited for so long to have them come in and speak. Students have been reading Trent's <a href="http://www.trentwalton.com">blog</a> for class assignments, using Dave's <a href="https://github.com/davatron5000">codes</a>, and stealing Reagan's <a href="http://reaganray.com/">illustrations</a> for their FB and Twitter cover photos.
