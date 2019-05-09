@@ -33,7 +33,7 @@ kramdown:
 theme: minima
 sass:
   style: compressed
-gems:
+plugins:
   - bourbon
   - jekyll-feed
   - jekyll-twitter-plugin

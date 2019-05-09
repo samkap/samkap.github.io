@@ -5,9 +5,11 @@
 }
 
 html {
-  background-image: url(/img/floral.png);
-  background-repeat: repeat;
-  background-attachment: fixed;
+  background: rgb(0,74,85);
+  background: -moz-linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.8) 100%);
+  background: -webkit-linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.8) 100%);
+  background: linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.8) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#004a55",endColorstr="#004a55",GradientType=1);
 
 }
 /* Content */
@@ -23,7 +25,7 @@ body {
   margin: 10px;
   word-wrap: break-word;
   @media screen and (min-width: 680px) {
-    margin: 20px;
+    margin: 15px;
   }
 }
 
