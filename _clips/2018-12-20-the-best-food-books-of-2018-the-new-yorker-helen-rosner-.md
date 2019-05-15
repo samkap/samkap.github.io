@@ -7,4 +7,4 @@ link: https://www.newyorker.com/culture/2018-in-review/the-best-food-books-of-20
 ogtype: article
 
 ---
-[ The Best Food Books of 2018 | The New Yorker (Helen Rosner) ]( https://www.newyorker.com/culture/2018-in-review/the-best-food-books-of-2018?utm_brand=tny&utm_medium=social&mbid=social_twitter&utm_source=twitter&utm_social-type=owned )
+[The Best Food Books of 2018 | The New Yorker (Helen Rosner)](https://www.newyorker.com/culture/2018-in-review/the-best-food-books-of-2018)
