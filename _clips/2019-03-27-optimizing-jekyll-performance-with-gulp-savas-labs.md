@@ -7,6 +7,6 @@ link: https://savaslabs.com/2016/10/19/optimizing-jekyll-with-gulp.html
 ogtype: article
 
 ---
-[Optimizing Jekyll Performance with Gulp | Savas Labs](https://savaslabs.com/2016/10/19/optimizing-jekyll-with-gulp.html) 
+[Optimizing Jekyll Performance with Gulp by Savas Labs](https://savaslabs.com/2016/10/19/optimizing-jekyll-with-gulp.html) 
 
 So helpful
