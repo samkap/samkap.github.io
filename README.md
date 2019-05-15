@@ -1,7 +1,6 @@
----
----
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8cee949a-319a-4fa2-b5aa-1712acf0b0b8/deploy-status)](https://app.netlify.com/sites/samk/deploys)
+
+![logo](img/ampersam.svg)
 
 # Personal site
 
