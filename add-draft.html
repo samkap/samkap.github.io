@@ -1,7 +1,8 @@
 ---
-layout: null
+layout: 
 sitemap: false
-permalink: /add-draft.html
+permalink: "/add-draft.html"
+
 ---
 <html>
 <head>
@@ -117,7 +118,7 @@ permalink: /add-draft.html
 			var link = $('#p_link').val() ;
 
 			var p_body = '---\n' ;
-			p_body = p_body + 'layout: post \n' ;
+			p_body = p_body + 'layout: clip \n' ;
 			p_body = p_body + 'categories: clips \n' ;
 			p_body = p_body + 'published: true \n';
 			p_body = p_body + 'title: "Link: ' + title +'" \n';
@@ -127,7 +128,7 @@ permalink: /add-draft.html
 			}
 			p_body = p_body + 'ogtype: article \n';
 			p_body = p_body + '---\n';
-			p_body = p_body + '[ '+ title +' ]( '+ link +' ) ';
+			p_body = p_body + '['+ title +']('+ link +') ';
 
 			p_body = p_body + '\n' + $('#p_body').val();
 
