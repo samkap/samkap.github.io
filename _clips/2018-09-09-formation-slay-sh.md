@@ -1,11 +1,11 @@
 ---
-layout: clip 
-categories: clips 
-published: true 
-title: "Link: Formation | slay.sh" 
-date: 2018-09-09T23:49:57.590Z 
-link: https://slay.sh/ 
-ogtype: article 
+layout: clip
+categories: clips
+title: 'Link: Formation a shell theme by Mina Markham'
+date: 2018-09-09T23:49:57.590+00:00
+link: https://slay.sh/
+ogtype: article
+
 ---
-[ Formation | slay.sh ]( https://slay.sh/ ) 
-Via the brilliant, [Mina Markham](https://twitter.com/MinaMarkham). 
+[Formation | slay.sh ](https://slay.sh/ )
+Via the brilliant, [Mina Markham](https://twitter.com/MinaMarkham).
