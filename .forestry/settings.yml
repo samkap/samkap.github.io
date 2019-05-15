@@ -7,11 +7,9 @@ sections:
 - type: document
   path: about.md
   label: About
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
-  match: "**/*"
 - type: directory
   path: _clips
   label: Clips
