@@ -1,4 +1,6 @@
 ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8cee949a-319a-4fa2-b5aa-1712acf0b0b8/deploy-status)](https://app.netlify.com/sites/samk/deploys)
+
 
 ---
 
@@ -16,4 +18,3 @@
 * \[ \] Reflow content and redesign on Writing & Community page
 * \[ \] Organize Speaking page to include option to contact or videos of talks
 * \[ \] Make Jekyll tags work the way I want them to
-* \[ \] RSS/feed for collections other than posts page \[See slack from Scott J\]
