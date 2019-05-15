@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: about.md
+  label: About
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
@@ -13,19 +17,16 @@ sections:
   label: Clips
   create: all
   match: "**/*"
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: directory
   path: _food
   label: Food
   create: all
   match: "**/*"
-- type: directory
-  path: _uploads
-  label: Uploads
+- type: jekyll-pages
+  label: Pages
   create: all
-  match: "**/*"
+- type: heading
+  label: Pages
 upload_dir: img
 public_path: img
 front_matter_path: ''
