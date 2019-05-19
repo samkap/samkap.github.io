@@ -6,12 +6,20 @@
 
 html {
   background: rgb(0,74,85);
-  background: -moz-linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.8) 100%);
-  background: -webkit-linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.8) 100%);
-  background: linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.8) 100%);
+  background: -moz-linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.7) 100%);
+  background: -webkit-linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.7) 100%);
+  background: linear-gradient(107deg, rgba(0,74,85,1) 0%, rgba(0,120,138,1) 50%, rgba(0,74,85,0.7) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#004a55",endColorstr="#004a55",GradientType=1);
-
+  background-size: 400% 400%;
+  animation: gradient 8s ease infinite;
 }
+
+@keyframes gradient {
+	0% {background-position: 0% 50%;}
+	50% { background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+
 /* Content */
 body {
   -webkit-font-smoothing: antialiased;
