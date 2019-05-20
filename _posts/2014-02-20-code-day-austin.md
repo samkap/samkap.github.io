@@ -17,7 +17,7 @@ This past weekend I stopped [Code Day Austin](http://feb.2014.austin.codeday.org
 
 When we walked, the coders had been awake for 24 hours straight and the room was filled empty pizza boxes, half eaten donuts, and empty energy drink cans. All the coders were in high spirits though!
 
-<img src="http://samkapila.com/img/posts/codedayawards.jpg" alt="awards at codeday">
+<img src="/img/posts/codedayawards.jpg" alt="awards at codeday">
 
 There were 5 awards in total: Top overall, top app, top game, most promising, and most fun. I'm so impressed with all the work, especially team "Track This Element" who took home the top prize for a awesome Google Chrome plug-in. I can't wait for these coders to get out into the tech world. I can see already that high school they've outgrown high school!
 
