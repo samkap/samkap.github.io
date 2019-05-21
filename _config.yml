@@ -5,8 +5,9 @@ collections:
     title: Clips
     output: true
     permalink: clips/:year/:month/:day/:title
+    layout: clip
     values:
-      layout: posts
+      layout: clips
   food:
     title: Food
     output: true
