@@ -53,10 +53,7 @@ Her talk at Bumble at SXSW also stood out to me. For one, it was in Austin. Seco
 
 ### Other videos and links found during the jump into the rabbit hole
 
-[Esther Perel](https://armchairexpertpod.com/pods/esther-perel)
-
-[https://www.youtube.com/watch?v=QFwWvr1YUjA](https://www.youtube.com/watch?v=5iu9_8Vsmtk "https://www.youtube.com/watch?v=5iu9_8Vsmtk")
-
-[Love Is Not a Permanent State of Enthusiasm: An Interview with Esther Perel](https://www.newyorker.com/culture/the-new-yorker-interview/love-is-not-a-permanent-state-of-enthusiasm-an-interview-with-esther-perel)
-
-[Esther Perel](https://www.ted.com/speakers/esther_perel)
+* [Esther Perel](https://armchairexpertpod.com/pods/esther-perel) on Armchair Expert
+* [Summit Co 2018](https://www.youtube.com/watch?v=5iu9_8Vsmtk "https://www.youtube.com/watch?v=5iu9_8Vsmtk")
+* [Love Is Not a Permanent State of Enthusiasm: An Interview with Esther Perel](https://www.newyorker.com/culture/the-new-yorker-interview/love-is-not-a-permanent-state-of-enthusiasm-an-interview-with-esther-perel)
+* [Esther Perel](https://www.ted.com/speakers/esther_perel) on TED (two TED talks, too!)
