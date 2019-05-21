@@ -24,3 +24,5 @@ fields:
   label: layout
   config:
     required: true
+pages:
+- _posts/notes-from-going-down-the-rabbit-hole-esther-perel.md
