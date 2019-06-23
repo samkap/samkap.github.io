@@ -3,7 +3,19 @@ layout: default
 ---
 <section class="recent">
   <div class="greeting">
-    <img src="img/samkap.jpg" alt="">
+    <picture>
+      <img
+      sizes="(max-width: 600px) 100vw, 600px"
+      srcset="img/samkap,w_190.jpg 190w,
+      img/samkap,w_317.jpg 317w,
+      img/samkap,w_416.jpg 416w,
+      img/samkap,w_508.jpg 508w,
+      img/samkap,w_584.jpg 584w,
+      img/samkap,w_600.jpg 600w"
+      src="img/samkap,w_600.jpg"
+      alt="It's me, Sam!">
+    </picture>
+
     <h1>Hi, I'm Sameera. I'm based in Austin where I'm a design director, plant and food hobbyist, and former executive and educator. I speak and write about design and inclusion and serve on two advisory boards.</h1>
   </div>
   <div class="recent__post-column">

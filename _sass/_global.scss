@@ -25,7 +25,7 @@ body {
   -webkit-font-smoothing: antialiased;
   color: $color1;
   font-display: auto;
-  font-family: "din-2014", sans-serif;
+  font-family: $serif;
   font-size: $base-font-size;
   font-weight: 400;
   height: 100%;
@@ -120,19 +120,29 @@ hr {
 }
 
 nav {
+  color: $color2;
+
+  &:hover {
+    color: $color1;
+  }
   hr {
     display: none;
   }
 
   a {
+    border-radius: 4px;
+    color: $color2;
+    font-size: 0.9em;
+    font-weight: 500;
+    overflow: hidden;
     padding: 5px;
+    position: relative;
     text-align: center;
     text-decoration: none;
-    border-radius: 4px;
-    overflow: hidden;
-    position: relative;
-    font-size: 0.8em;
-    font-weight: 600;
+
+    &:hover {
+      color: $color1;
+    }
   }
 }
 
@@ -146,7 +156,7 @@ footer {
 footer a {
   background-image: none;
   text-decoration: none !important;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 footer .inner {

@@ -8,7 +8,7 @@ Tags:
 - design
 - speaking
 desc:
-cover-image: /img/posts/netmag1.jpg
+cover-image: img/posts/netmag1.jpg
 ---
 
 It seems appropriate to release a few unfinished drafts on Independence Day; they deserve their freedom! Here’s a few updates from the past few months:

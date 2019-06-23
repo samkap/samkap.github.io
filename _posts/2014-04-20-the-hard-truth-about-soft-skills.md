@@ -1,12 +1,7 @@
 ---
-title: The Hard Truth About Soft Skills
-date: 2014-04-20 00:00:00 -05:00
----
-
-﻿---
 layout: post
 title: The Hard Truth about Soft Skills
-date: 2014-04-20 00:00:00 Z
+date: 2014-04-20 00:00:00
 desc: Soft skills are a missing part of a young designer's education. What do they need to know? And how can they find out sooner?
 Tags: education, community, design, productivity, writing, articles, quotes
 ---

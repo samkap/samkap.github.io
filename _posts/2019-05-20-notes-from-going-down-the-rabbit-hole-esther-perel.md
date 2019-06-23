@@ -28,7 +28,7 @@ I didn't take notes for all of this, as I was also [making dinner](https://www.i
 * Every (American/Western-raised) person wants a solution, but rather it demands the understanding of the past
 * In community we got a lot of continuity, consistence, and were never alone. Now we look to our partners for the existential aloneness to be solved.
 
-> “You don't solve this with Victoria's Secret. And there isn't a Victor's Secret, so we all know where the responsibility lies”
+> You don't solve this with Victoria’s Secret. And there isn't a Victor’s Secret, so we all know where the responsibility lies
 
 * Intimacy = into me see. I show you my inner life.
 * Everyone struggle with change in stability. The thriving ones know how to reconcile that.
@@ -54,7 +54,7 @@ I didn't take notes for all of this, as I was also [making dinner](https://www.i
 
 Her talk at Bumble at SXSW also stood out to me. For one, it was in Austin. Secondly, [Bumble posted about the panel they hosted](https://bumble.com/the-buzz/esther-perel-intimacy-infidelity-panel) featuring here and shared this quote:
 
-> Perhaps the most impactful thing Perel said in light of the outpouring of sexual harassment allegations in the current news cycle was that "men need a place where men can be safely vulnerable and women can be safely angry.” Perel doesn’t claim that this can easily be done, but she does suggest it’s the only way for our society to compassionately heal and move forward.
+> Perhaps the most impactful thing Perel said in light of the outpouring of sexual harassment allegations in the current news cycle was that ‘men need a place where men can be safely vulnerable and women can be safely angry.’ Perel doesn’t claim that this can easily be done, but she does suggest it’s the only way for our society to compassionately heal and move forward.
 
 ### Other videos and links found during the jump into the rabbit hole
 

@@ -8,7 +8,7 @@ tags:
 layout: post
 desc: I had the privilege of judging Code Day Austin, a weekend hackathon for middle
   and high school students in Austin, Texas.
-cover-image: /img/posts/codedaydudes.jpg
+cover-image: img/posts/codedaydudes.jpg
 ---
 
 <img src="/img/posts/codedayaustin.jpg" alt="awards at codeday">

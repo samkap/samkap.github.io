@@ -16,7 +16,7 @@ layout: default
            {% endif %}
          </div>
        <div class="post-container__text">
-         <small>{{ post.date | date: site.date_format }}</small>
+         <small class="meta">{{ post.date | date: site.date_format }}</small>
          <h2>{{ post.title }}</h2>
          <p>{{ post.content | truncatewords:30 | strip_html }}</p>
        </div>
