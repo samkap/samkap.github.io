@@ -40,7 +40,7 @@ In July 2017, we announced a company closure slated for November 2017. Our counc
 
 * October 2016: Visit to **White House for the #CS4All Summit**, where Tech Opportunity Fund announced again.
 
-![Megan Smith, Sam Kapila, and Jessica Mitsch at The White House](/img/meghan-sam-jessica.jpg)
+![Megan Smith, Sam Kapila, and Jessica Mitsch at The White House](/img/posts/meghan-sam-jessica.jpg)
 *Megan Smith, former CTO for the United States (left), Jessica (right), and I at the #CS4All Summit at The White House, October 2016.*
 
 * October 2016: The **White House invites student, Patrick, (and instructor, Tom) to share their #OpportunityProject**, at an onsite, science fair style event. Patrick presented their project to Megan Smith,  instructor was present, as well.
@@ -63,7 +63,7 @@ In July 2017, we announced a company closure slated for November 2017. Our counc
 
 * March 2017: **The Tech Opportunity Fund re-launches as the #YesWeCode Fund**. $100k raised in pledges at the SXSW announcement during HBCU and TechJobs tracks.
 
-![Photo of speakers at SXSW](/img/yeswecodeannouncement.jpg)
+![Photo of speakers at SXSW](/img/posts/yeswecodeannouncement.jpg)
 {: .full}
 
 *HBCU track at SXSW 2017, announcing the #YesWeCode Fund. From left: Felix Flores, National Director for #YesWeCode; Sam Kapila, Director of Academic Operations & Diversity at TIY, Van Jones Founder of DreamCorps & #YesWeCode; Tess Posner, Managing Director of TechHire; Felecia Hatcher, White House 2014 Champion of Change, Co-Founder of CodeFeverMiami and Tech; Rodney Sampson, partner at TechSquare Labs; and John Hope Bryant, Founder, Chairman and CEO of Operation HOPE, March 2017, SXSW.*

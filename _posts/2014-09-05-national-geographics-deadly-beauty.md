@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-<img src="http://news.nationalgeographic.com/news/features/2014/08/140821-portuguese-man-of-war-animal-ocean-science-pictures/assets/img/10.jpg"><cite><small>Photograph by Aaron Ansarov for [National Geographic](http://news.nationalgeographic.com/news/features/2014/08/140821-portuguese-man-of-war-animal-ocean-science-pictures/assets/img/10.jpg).</small></cite>
+<img src="https://news.nationalgeographic.com/news/features/2014/08/140821-portuguese-man-of-war-animal-ocean-science-pictures/assets/img/10.jpg"><cite><small>Photograph by Aaron Ansarov for [National Geographic](https://news.nationalgeographic.com/news/features/2014/08/140821-portuguese-man-of-war-animal-ocean-science-pictures/assets/img/10.jpg).</small></cite>
 
 
 National Geographic’s “Deadly Beauty” feature on Portuguese Man-of-War jellyfish is absolutely stunning. The jellyfish photos and videos captured by Aaron Ansarov show the anatomy of the deadly stingers like I’ve never seen. The [whole feature](http://news.nationalgeographic.com/news/features/2014/08/140821-portuguese-man-of-war-animal-ocean-science-pictures/?utm_source=NatGeocom&utm_medium=Email&utm_content=inside_20140904&utm_campaign=Content) is pretty awesome. In Curaçao, it was common for Man-of-War to take over my favorite beaches. I knew these dudes and dudettes were deadly, but I didn’t know too much about their feeding habits:
