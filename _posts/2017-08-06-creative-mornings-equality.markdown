@@ -22,7 +22,6 @@ Creative Mornings uploaded the edited video of my talk, some awesome attendees m
 
 <iframe width="1080" height="630" src="https://www.youtube.com/embed/5pj8E-XbRzE" frameborder="0" allowfullscreen></iframe>
 
-
 Here are some AWESOME sketches from the talk, by artist, [Ami Plasse](http://amidrawstx.tumblr.com/post/163541590683/creativemorningsaustin-72117-on-the-topic-of).
 
 ![Creative Mornings Sketch notes](/img/posts/tumblr_ottry9Mh1U1s5q8eso4_1280.jpg)

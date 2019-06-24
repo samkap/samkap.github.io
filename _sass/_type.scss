@@ -14,6 +14,17 @@ i {
   font-style: italic;
 }
 
+sup, sub {
+  font-family: $sans;
+  position: relative;
+  top: -0.4em;
+  vertical-align: baseline;
+}
+
+sub {
+  top: 0.4em;
+}
+
 main {
   a, a:visited {
     color: inherit;
@@ -35,8 +46,7 @@ h4,
 h5,
 h6 {
   font-display: auto;
-  font-family: $serif;
-  font-style: italic;
+  font-family: $sans;
   font-weight: 500;
   letter-spacing: normal;
   word-spacing: normal;
@@ -45,6 +55,7 @@ h6 {
 
 h1 {
   font-size: 1.5em;
+  font-weight: 700;
   line-height: 1.2;
   margin-bottom: 0.5em;
 }
