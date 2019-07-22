@@ -360,12 +360,7 @@ h4 a {
   }
 
   .post-container {
-    align-items: center;
     background: $white;
-    display: grid;
-    grid-column-gap: 20px;
-    grid-row-gap: 20px;
-    grid-template-columns: 1fr;
     max-width: 800px;
     padding: 20px;
 
