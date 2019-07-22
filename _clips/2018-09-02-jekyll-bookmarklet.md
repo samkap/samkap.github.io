@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Jekyll Bookmarklet" 
 date: 2018-09-02T23:04:38.115Z 

@@ -1,7 +1,7 @@
 ---
 title: Trivago and accessibility
 date: 2017-09-26 19:20:00 -05:00
-categories:
+tags:
 - clips
 tags:
 - accessibility

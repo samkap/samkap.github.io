@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Inflection Point - How women rise up" 
 date: 2018-11-29T03:40:57.757Z 

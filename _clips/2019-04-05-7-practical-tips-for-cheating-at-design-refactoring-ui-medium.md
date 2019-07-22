@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: clips
+tags: clips
 title: 'Link: 7 Practical Tips for Cheating at Design – Refactoring UI – Medium'
 date: 2019-04-06 04:30:35 +0000
 ogtype: article

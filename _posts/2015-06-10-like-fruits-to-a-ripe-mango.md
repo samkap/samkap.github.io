@@ -3,7 +3,7 @@ title: Like Fruits to A Ripe Mango
 date: 2015-06-10 19:00:00 -05:00
 layout: post
 desc: 
-Tags:
+tags:
 - writing
 - conference
 - design

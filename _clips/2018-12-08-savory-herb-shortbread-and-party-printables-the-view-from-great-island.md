@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 title: 'Link: Savory Herb Shortbread — The View from Great Island'
 date: 2018-12-08T17:06:33.081+00:00
 link: https://theviewfromgreatisland.com/savory-herb-shortbread-recipe-and-spring-party-printables/?crlt.pid=camp.mIhGV4zTG6fe

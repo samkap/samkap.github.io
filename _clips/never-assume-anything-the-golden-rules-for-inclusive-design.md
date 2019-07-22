@@ -1,6 +1,6 @@
 ---
 title: "‘Never assume anything’: The golden rules for inclusive design"
-categories: clips
+tags: clips
 layout: clip
 date: 2018-08-06 00:00:00 +0000
 tags: []

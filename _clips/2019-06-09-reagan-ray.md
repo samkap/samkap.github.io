@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Reagan Ray" 
 date: 2019-06-09T19:12:20.251Z 

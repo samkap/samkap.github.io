@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: The Complete CSS Demo for OpenType Features - OpenType Features in CSS" 
 date: 2018-09-11T04:09:42.658Z 

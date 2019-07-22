@@ -1,11 +1,11 @@
 ---
 title: Judging the net Awards 2015
 date: 2015-04-26 19:00:00 -05:00
-categories:
+tags:
 - clips
 layout: clip
 desc: 
-Tags:
+tags:
 - design
 - community
 - competitions

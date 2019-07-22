@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Jameela Jamil on banning airbrushing, the Kardashians and her traumatic teens - YouTube" 
 date: 2018-09-03T20:59:56.842Z 

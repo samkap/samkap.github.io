@@ -6,7 +6,7 @@ desc: Whenever I worked on design projects, I always used to get stuck. I’d be
   nervous, vulnerable, and incapable, questioning the project, comparing my work to
   others, and beating myself up. I’d do what a lot of fresh out of school designers
   would do, which was something that we were taught. In art school, I remember
-Tags:
+tags:
 - articles
 - writing
 - music

@@ -1,6 +1,6 @@
 ---
 layout: post 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Introducing USWDS 2.0, the United States Web Design System" 
 date: 2019-04-08T20:25:55.540Z 

@@ -3,7 +3,7 @@ title: Jobs at the Iron Yard
 date: 2015-07-07 19:00:00 -05:00
 layout: post
 desc: 
-Tags:
+tags:
 - jobs
 - the-iron-yard
 ---

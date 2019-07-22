@@ -1,7 +1,7 @@
 ---
 title: Chris Bosh pens letter to city of Miami
 date: 2017-07-10 17:58:00 -05:00
-categories:
+tags:
 - clips
 tags:
 - sports

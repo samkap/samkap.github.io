@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: When It Comes To Personas, The Real Value Is In The Scenarios" 
 date: 2018-11-07T16:23:13.410Z 

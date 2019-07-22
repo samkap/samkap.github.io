@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: How to Make Flipino-Style Lumpia Spring Rolls - VICE Video: Documentaries, Films, News Videos" 
 date: 2018-12-08T17:04:27.614Z 

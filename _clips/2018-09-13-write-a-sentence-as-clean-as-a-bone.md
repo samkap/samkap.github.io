@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: clips
+tags: clips
 title: Write a Sentence as Clean as a Bone
 date: 2018-09-13T14:10:12.692+00:00
 link: https://lithub.com/write-a-sentence-as-clean-as-a-bone-and-other-advice-from-james-baldwin/

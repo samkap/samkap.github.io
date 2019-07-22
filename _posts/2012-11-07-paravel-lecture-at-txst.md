@@ -6,7 +6,7 @@ Date: 2012-11-08 08:00
 Desc: Today, Dave Rupert, Trent Walton, and Reagan Ray of Paravel Inc, stopped by
   the Design department at Texas State and spoke to students about web design. And
   chili burgers.
-Tags:
+tags:
 - lecture
 - texas-state
 - austin

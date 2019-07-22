@@ -1,7 +1,7 @@
 ---
 title: Pass — Neue — New, relevant &amp; remarkable
 date: 2017-01-22 18:07:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 crosspost_to_medium: false

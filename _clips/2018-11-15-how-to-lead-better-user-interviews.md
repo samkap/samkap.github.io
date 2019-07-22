@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: How to Lead Better User Interviews" 
 date: 2018-11-15T15:34:58.683Z 

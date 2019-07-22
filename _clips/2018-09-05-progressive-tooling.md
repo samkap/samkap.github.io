@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Progressive Tooling" 
 date: 2018-09-05T15:04:29.266Z 

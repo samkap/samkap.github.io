@@ -1,7 +1,7 @@
 ---
 title: It's okay to...
 date: 2016-06-02 19:00:00 -05:00
-categories:
+tags:
 - clips
 layout: clip
 ---

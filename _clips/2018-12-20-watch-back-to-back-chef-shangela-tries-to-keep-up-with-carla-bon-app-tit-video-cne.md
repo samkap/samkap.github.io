@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 title: 'Link: Watch Back to Back Chef. Shangela Tries to Keep Up with Carla on Bon
   Appétit Video'
 date: 2018-12-21T03:07:33.446+00:00

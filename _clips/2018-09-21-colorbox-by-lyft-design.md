@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: ColorBox by Lyft Design" 
 date: 2018-09-21T19:27:55.972Z 

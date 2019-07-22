@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 published: true
 title: "Why Difference Matters And How Words Keep It That Way"
 date: 2019-03-28T04:26:54.268Z

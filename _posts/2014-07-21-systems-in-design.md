@@ -4,7 +4,7 @@ date: 2014-07-21 19:00:00 -05:00
 Title: Systems in Design [full article]
 layout: post
 Date: 2014-07-21 19:00:00 -05:00
-Tags:
+tags:
 - articles
 - writing
 - design

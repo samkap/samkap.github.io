@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: ‘No Passport Required’ - Eater" 
 date: 2018-09-10T04:24:00.782Z 

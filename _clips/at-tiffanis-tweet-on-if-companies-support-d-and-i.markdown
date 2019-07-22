@@ -1,7 +1,7 @@
 ---
 title: "@Tiffani's tweet on if companies support D&I"
 date: 2018-02-05 18:24:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 ---

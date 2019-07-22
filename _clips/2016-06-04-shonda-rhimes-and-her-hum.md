@@ -1,7 +1,7 @@
 ---
 title: The more I play. The more I feel my hum.
 date: 2016-06-03 19:00:00 -05:00
-categories:
+tags:
 - clips
 layout: clip
 crosspost_to_medium: true

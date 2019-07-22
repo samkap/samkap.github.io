@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Game Of Tones" 
 date: 2019-06-09T19:25:29.293Z 

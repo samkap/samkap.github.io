@@ -1,5 +1,5 @@
 ---
-categories: clips
+tags: clips
 layout: clip
 date: 2019-04-29 20:00:00 -0500
 tags: []

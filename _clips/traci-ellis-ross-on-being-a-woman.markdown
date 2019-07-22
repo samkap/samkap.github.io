@@ -1,7 +1,7 @@
 ---
 title: Traci Ellis Ross on Being A Woman
 date: 2017-11-21 11:08:00 -06:00
-categories:
+tags:
 - clips
 tags:
 - women

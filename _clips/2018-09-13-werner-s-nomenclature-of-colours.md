@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Werner’s Nomenclature of Colours" 
 date: 2018-09-13T14:09:29.785Z 

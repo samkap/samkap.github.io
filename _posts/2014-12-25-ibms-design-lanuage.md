@@ -3,7 +3,7 @@ title: IBM’s Design Language
 date: 2014-12-25 18:00:00 -06:00
 layout: post
 desc: 
-Tags:
+tags:
 - austin
 - design
 - student-work

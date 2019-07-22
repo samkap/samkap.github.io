@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: ANDI - Accessibility Testing Tool - Install" 
 date: 2018-12-21T18:56:56.504Z 

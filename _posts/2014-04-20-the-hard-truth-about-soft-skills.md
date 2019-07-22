@@ -3,7 +3,7 @@ layout: post
 title: The Hard Truth about Soft Skills
 date: 2014-04-20 00:00:00
 desc: Soft skills are a missing part of a young designer's education. What do they need to know? And how can they find out sooner?
-Tags: education, community, design, productivity, writing, articles, quotes
+tags: education, community, design, productivity, writing, articles, quotes
 ---
 
 When young designers enter the workplace, they are expected to have hard and soft skills. The hard skills are the technical parts of being a designer; how to work between programs, save a file, mount projects, etc. Soft skills include how to apply for jobs, communicating with professionals and clients, how to explain concepts, etc. The spring semester ends this week, as does my Senior Portfolio Review course, which includes frequent discussions of those hard and soft skills. In the capstone class, students polish their portfolios for the intent of getting a design job and prepare themselves for the design industry. In addition, we've been discussing cover letters, interviews, and résumés as well. It's not an easy class to take—or teach, for that matter.

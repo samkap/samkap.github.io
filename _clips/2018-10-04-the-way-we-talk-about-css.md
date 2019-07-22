@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: The Way We Talk About CSS" 
 date: 2018-10-05T00:21:19.709Z 

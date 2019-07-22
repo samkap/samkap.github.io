@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Greater Good in Action        " 
 date: 2019-05-09T02:54:52.181Z 

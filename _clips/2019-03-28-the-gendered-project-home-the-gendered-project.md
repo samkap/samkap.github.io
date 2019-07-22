@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 published: true
 title: "Link: The Gendered Project"
 date: 2019-03-28T22:31:55.371Z

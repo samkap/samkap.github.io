@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link:     11 Gritty gifts all Philadelphia Flyers fans deserve to have - INSIDER" 
 date: 2018-12-20T18:34:11.681Z 

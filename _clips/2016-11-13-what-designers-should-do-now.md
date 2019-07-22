@@ -1,7 +1,7 @@
 ---
 title: What Designers Should do Now
 date: 2016-11-12 18:00:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 cover-image: 

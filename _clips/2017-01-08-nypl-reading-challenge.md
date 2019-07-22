@@ -1,7 +1,7 @@
 ---
 title: Taking On the 2017 Read Harder Challenge? Start Here.
 date: 2017-01-08 04:33:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 crosspost_to_medium: false

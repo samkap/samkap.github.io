@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: switching.social – Ethical alternatives to popular sites and apps" 
 date: 2018-09-03T21:32:17.218Z 

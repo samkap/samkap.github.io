@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Railway Logos" 
 date: 2018-11-02T15:47:22.161Z 

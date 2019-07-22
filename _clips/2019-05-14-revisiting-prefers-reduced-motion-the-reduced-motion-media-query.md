@@ -1,6 +1,6 @@
 ---
 layout: post 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Revisiting prefers-reduced-motion, the reduced motion media query" 
 date: 2019-05-15T01:58:06.041Z 

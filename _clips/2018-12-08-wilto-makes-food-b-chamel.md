@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Wilto Makes Food - Béchamel" 
 date: 2018-12-08T17:01:35.547Z 

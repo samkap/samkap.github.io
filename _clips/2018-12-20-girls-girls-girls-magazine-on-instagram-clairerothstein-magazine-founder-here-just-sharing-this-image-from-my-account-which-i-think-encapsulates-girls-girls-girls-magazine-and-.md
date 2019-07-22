@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Girls. Girls. Girls. Magazine on Instagram: “@ClaireRothstein magazine founder here 👋🏼 just sharing this image from my account which I think encapsulates @girls.girls.girls.magazine and…”" 
 date: 2018-12-21T01:01:19.650Z 

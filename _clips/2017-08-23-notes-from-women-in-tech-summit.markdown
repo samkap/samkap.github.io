@@ -1,7 +1,7 @@
 ---
 title: Notes from Women In Tech Summit
 date: 2017-08-23 13:24:00 -05:00
-categories:
+tags:
 - clips
 tags:
 - diversity

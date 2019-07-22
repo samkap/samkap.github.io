@@ -1,6 +1,6 @@
 ---
 layout: post 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: How to Apply Eyeliner - Liquid Liner Winged Liner Tutorial" 
 date: 2019-04-04T22:02:15.050Z 

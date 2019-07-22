@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: KUT's Diversity and Inclusion census study [Austin's public radio affiliate]" 
 date: 2018-09-04T14:40:20.668Z 

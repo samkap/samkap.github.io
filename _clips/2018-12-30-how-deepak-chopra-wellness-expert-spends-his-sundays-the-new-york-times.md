@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: How Deepak Chopra, Wellness Expert, Spends His Sundays - The New York Times" 
 date: 2018-12-30T15:55:17.217Z 

@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: CSS Frameworks Or CSS Grid: What Should I Use For My Project? — Smashing Magazine" 
 date: 2018-11-13T03:44:59.565Z 

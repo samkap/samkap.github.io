@@ -1,7 +1,7 @@
 ---
 title: How to draw impossible geometry
 date: 2017-07-05 03:18:00 -05:00
-categories:
+tags:
 - clips
 tags:
 - gaming

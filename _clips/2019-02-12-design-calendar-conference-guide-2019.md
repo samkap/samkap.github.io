@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Design Calendar – Conference guide 2019" 
 date: 2019-02-13T00:34:05.685Z 

@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: This Graphic Shows the Best Air-Cleaning Plants, According to NASA" 
 date: 2019-07-14T15:21:05.165Z 

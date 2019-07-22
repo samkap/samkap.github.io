@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: The Importance Of Manual Accessibility Testing — Smashing Magazine" 
 date: 2018-09-21T18:47:55.996Z 

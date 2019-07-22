@@ -1,7 +1,7 @@
 ---
 title: Lists.Design
 date: 2017-08-04 08:46:00 -05:00
-categories:
+tags:
 - clips
 layout: clip
 ---

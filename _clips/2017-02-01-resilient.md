@@ -1,7 +1,7 @@
 ---
 title: Resilient Web Design
 date: 2017-02-01 04:27:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 ---

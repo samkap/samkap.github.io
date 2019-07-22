@@ -1,7 +1,7 @@
 ---
 title: CSS Grid Garden
 date: 2017-09-20 15:18:00 -05:00
-categories:
+tags:
 - clips
 tags:
 - css

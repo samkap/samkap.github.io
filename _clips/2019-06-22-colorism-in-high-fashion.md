@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Colorism in High Fashion" 
 date: 2019-06-22T15:32:02.896Z 

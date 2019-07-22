@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Here's A Make-Ahead Meal Plan That Anyone Can Cook" 
 date: 2018-09-13T14:08:35.524Z 

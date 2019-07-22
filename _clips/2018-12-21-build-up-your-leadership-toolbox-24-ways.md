@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Build up Your Leadership Toolbox ◆ 24 ways" 
 date: 2018-12-22T00:59:10.409Z 

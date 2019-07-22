@@ -1,7 +1,7 @@
 ---
 title: Flowkit for Sketch
 date: 2017-11-27 17:55:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 ---

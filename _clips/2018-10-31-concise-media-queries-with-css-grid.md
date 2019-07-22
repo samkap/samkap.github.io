@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Concise Media Queries with CSS Grid" 
 date: 2018-10-31T15:58:30.931Z 

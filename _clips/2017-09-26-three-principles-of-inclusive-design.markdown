@@ -1,7 +1,7 @@
 ---
 title: Three principles of Inclusive Design
 date: 2017-09-26 19:23:00 -05:00
-categories:
+tags:
 - clips
 tags:
 - design

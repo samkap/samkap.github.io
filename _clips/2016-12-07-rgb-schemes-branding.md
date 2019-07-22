@@ -1,7 +1,7 @@
 ---
 title: Gorgeous RGB Schemes Branding
 date: 2016-12-06 18:00:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 crosspost_to_medium: true

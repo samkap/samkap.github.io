@@ -1,11 +1,11 @@
 ---
 title: Design.watch
 date: 2014-12-27 18:00:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 desc: 
-Tags:
+tags:
 - video
 - inspiration
 - interesting

@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 published: true
 title: "Link: Lin-Manuel Miranda Hopes To Save Canceled Show"
 date: 2019-03-15T02:12:40.459Z

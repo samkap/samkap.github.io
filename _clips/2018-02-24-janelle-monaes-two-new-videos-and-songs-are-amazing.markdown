@@ -1,7 +1,7 @@
 ---
 title: Janelle Monáe's two new videos and songs are amazing.
 date: 2018-02-24 12:25:00 -06:00
-categories:
+tags:
 - clips
 tags:
 - music

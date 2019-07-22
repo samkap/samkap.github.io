@@ -2,7 +2,7 @@
 title: Wrote, spoke, and two months later
 date: 2014-07-03 19:00:00 -05:00
 layout: post
-Tags:
+tags:
 - articles
 - writing
 - design

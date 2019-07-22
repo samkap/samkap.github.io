@@ -1,6 +1,6 @@
 ---
 layout: post 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Trans-inclusive Design – A List Apart" 
 date: 2019-05-15T02:14:01.531Z 

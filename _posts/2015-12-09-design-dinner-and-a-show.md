@@ -2,7 +2,7 @@
 title: You've got this!
 date: 2015-12-09 18:00:00 -06:00
 layout: post
-Tags:
+tags:
 - articles
 - writing
 - music

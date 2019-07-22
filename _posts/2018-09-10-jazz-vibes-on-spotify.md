@@ -1,6 +1,6 @@
 ---
 title: Jazz Vibes on Spotify
-categories: ''
+tags: ''
 layout: post
 date: 2018-08-20 22:10:53 -0500
 tags:

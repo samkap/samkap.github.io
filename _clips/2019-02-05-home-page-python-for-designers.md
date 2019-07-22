@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Home Page — Python for designers" 
 date: 2019-02-05T22:55:35.884Z 

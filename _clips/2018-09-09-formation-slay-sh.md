@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 title: 'Link: Formation a shell theme by Mina Markham'
 date: 2018-09-09T23:49:57.590+00:00
 link: https://slay.sh/

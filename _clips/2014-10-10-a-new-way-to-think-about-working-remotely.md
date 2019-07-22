@@ -1,7 +1,7 @@
 ---
 title: A new way to think about working remotely
 date: 2014-10-09 19:00:00 -05:00
-categories:
+tags:
 - clips
 tags:
 - inspiration

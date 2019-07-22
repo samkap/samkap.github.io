@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 published: true
 title: "Link: Sketch Runner"
 date: 2019-04-03T03:02:07.693Z

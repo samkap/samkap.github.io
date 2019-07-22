@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 published: true
 title: "Link: Please keep politics out of your talk – The future is like pie." 
 date: 2018-11-04T20:20:26.475Z

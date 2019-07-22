@@ -3,7 +3,7 @@ title: I saw and lettered the sign
 date: 2015-01-31 18:00:00 -06:00
 layout: post
 desc: Making a sign for the iron yard
-Tags:
+tags:
 - projects
 - austin
 - design

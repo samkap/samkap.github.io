@@ -1,7 +1,7 @@
 ---
 title: Prince, Bowie, George Michael
 date: 2016-12-25 13:35:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 crosspost_to_medium: false

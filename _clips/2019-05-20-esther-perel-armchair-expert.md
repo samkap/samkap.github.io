@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Esther Perel — Armchair Expert" 
 date: 2019-05-21T00:35:26.521Z 

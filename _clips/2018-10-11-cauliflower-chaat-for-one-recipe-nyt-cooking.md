@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Cauliflower Chaat for One Recipe - NYT Cooking" 
 date: 2018-10-11T21:38:08.410Z 

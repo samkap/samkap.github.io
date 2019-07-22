@@ -1,7 +1,7 @@
 ---
 title: Collapsed Navigation toggle
 date: 2017-02-02 07:52:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 crosspost_to_medium: false

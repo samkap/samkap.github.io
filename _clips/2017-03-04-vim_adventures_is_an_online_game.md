@@ -1,7 +1,7 @@
 ---
 title: VIM Adventures game
 date: 2017-03-04 06:44:00 -06:00
-categories:
+tags:
 - clips
 crosspost_to_medium: false
 layout: clip

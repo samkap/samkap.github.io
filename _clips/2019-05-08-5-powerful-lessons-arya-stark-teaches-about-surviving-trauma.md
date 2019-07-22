@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 title: 'Link: 5 Powerful Lessons Arya Stark Teaches about Surviving Trauma'
 date: 2019-05-08 20:16:00 -0500
 tags:

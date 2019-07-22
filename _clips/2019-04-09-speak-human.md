@@ -1,6 +1,6 @@
 ---
 layout: post 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Speak Human" 
 date: 2019-04-09T18:57:36.740Z 

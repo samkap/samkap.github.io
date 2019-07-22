@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 published: true
 title: "47 Summer Pastas Full of Fresh Tomatoes, Herbs, and More via Bon Appétit"
 date: 2019-06-29T20:14:31.576Z

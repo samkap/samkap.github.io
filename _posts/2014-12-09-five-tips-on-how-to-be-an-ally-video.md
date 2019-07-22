@@ -2,7 +2,7 @@
 title: Five Tips on How to be an Ally [video]
 date: 2014-12-09 18:00:00 -06:00
 desc:
-Tags:
+tags:
 - community
 - share
 - video

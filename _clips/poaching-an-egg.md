@@ -3,7 +3,7 @@ title: Poaching an egg
 layout: clip
 date: 2018-05-28 00:00:00 +0000
 tags: []
-categories: []
+tags: []
 ---
 Watching video about poaching eggs because its about damn time I learned. 
 

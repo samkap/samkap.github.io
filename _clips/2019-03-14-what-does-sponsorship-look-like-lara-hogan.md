@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: What sponsorship look like by Lara Hogan" 
 date: 2019-03-15T02:17:58.298Z 

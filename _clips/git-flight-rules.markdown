@@ -1,7 +1,7 @@
 ---
 title: Git Flight Rules
 date: 2017-11-28 10:50:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 ---

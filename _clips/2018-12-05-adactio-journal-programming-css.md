@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Adactio: Journal—Programming CSS" 
 date: 2018-12-05T20:49:37.622Z 

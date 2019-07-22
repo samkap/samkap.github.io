@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: 15+ Mason Jar Christmas Food Gifts – Recipes for Gifts in a Mason Jar—Delish.com" 
 date: 2018-11-16T06:34:13.833Z 

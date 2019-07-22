@@ -1,10 +1,10 @@
 ---
 title: Idea Evolution
 date: 2014-11-15 18:00:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
-Tags:
+tags:
 - inspiration
 - interesting
 - share

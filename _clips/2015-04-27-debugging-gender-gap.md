@@ -1,11 +1,11 @@
 ---
 title: Debugging the Gender Gap [video]
 date: 2015-04-26 19:00:00 -05:00
-categories:
+tags:
 - clips
 layout: clip
 desc: 
-Tags:
+tags:
 - gender
 - video
 - design

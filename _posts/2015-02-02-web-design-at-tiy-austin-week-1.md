@@ -4,7 +4,7 @@ date: 2015-02-02 18:00:00 -06:00
 layout: post
 desc: The Web Design class started last week in Austin, and it was really exciting
   to get the class going here.  We moved into our second space at
-Tags:
+tags:
 - design
 - austin
 - teaching

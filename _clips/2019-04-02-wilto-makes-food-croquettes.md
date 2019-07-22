@@ -1,6 +1,6 @@
 ---
 layout: clip
-categories: clips
+tags: clips
 published: true
 title: "Link: Wilto Makes Croquettes" 
 date: 2019-04-03T00:58:17.237Z

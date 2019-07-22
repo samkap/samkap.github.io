@@ -1,7 +1,7 @@
 ---
 title: Productivity and Managering through difficult times
 date: 2018-01-20 12:48:00 -06:00
-categories:
+tags:
 - clips
 layout: clip
 ---

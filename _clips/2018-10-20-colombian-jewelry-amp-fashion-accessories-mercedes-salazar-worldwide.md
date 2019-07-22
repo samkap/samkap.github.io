@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: Colombian Jewelry &amp; Fashion Accessories - Mercedes Salazar Worldwide" 
 date: 2018-10-21T01:49:32.326Z 

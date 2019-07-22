@@ -1,6 +1,6 @@
 ---
 layout: post 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: DIY Terrazzo Cheese Knives - A Beautiful Mess" 
 date: 2019-05-15T01:54:07.998Z 

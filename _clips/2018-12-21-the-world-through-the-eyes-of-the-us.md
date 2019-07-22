@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: The World through the Eyes of the US" 
 date: 2018-12-21T18:27:11.608Z 

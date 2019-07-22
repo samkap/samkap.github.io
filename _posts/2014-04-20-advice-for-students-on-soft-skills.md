@@ -2,7 +2,7 @@
 title: Advice on soft skills
 date: 2014-04-20 19:00:00 -05:00
 layout: post
-Tags:
+tags:
 - articles
 - writing
 - design

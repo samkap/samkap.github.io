@@ -1,6 +1,6 @@
 ---
 layout: clip 
-categories: clips 
+tags: clips 
 published: true 
 title: "Link: The Ethics of Web Performance - TimKadlec.com" 
 date: 2019-01-13T19:54:54.403Z 

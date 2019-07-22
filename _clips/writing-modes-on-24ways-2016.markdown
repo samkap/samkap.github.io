@@ -1,7 +1,7 @@
 ---
 title: Writing Modes on 24Ways (2016)
 date: 2017-12-11 20:36:00 -06:00
-categories:
+tags:
 - clips
 tags:
 - css

@@ -3,7 +3,7 @@ title: Holiday Reading List
 date: 2014-12-23 18:00:00 -06:00
 layout: post
 desc: 
-Tags:
+tags:
 - books
 - travel
 - austin

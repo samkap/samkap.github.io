@@ -1,7 +1,7 @@
 ---
 title: Ellen Pao on The Daily Show
 date: 2017-10-17 21:01:00 -05:00
-categories:
+tags:
 - clips
 tags:
 - diversity
