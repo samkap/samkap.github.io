@@ -3,11 +3,20 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'img'
+media_folder: '/img/'
+publish_mode: editorial_workflow
 collections:
   - name: 'posts'
-    label: 'Blog'
+    label: 'posts'
     folder: '_posts/'
     fields:
-      - { name: Title }
-      
+      - {label: Title, name: "title", widget: "string"}
+      - {label:  tags, name: "tags", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Cover image", name: "cover-image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'posts'
+    label: 'posts'
+    folder: '_posts/'
+    fields:
