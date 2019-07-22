@@ -6,7 +6,8 @@ backend:
 media_folder: 'img'
 collections:
   - name: 'posts'
-    label: 'posts'
+    label: 'Blog'
     folder: '_posts/'
     fields:
       - { name: Title }
+      
