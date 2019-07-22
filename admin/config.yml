@@ -16,7 +16,3 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Cover image", name: "cover-image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: 'posts'
-    label: 'posts'
-    folder: '_posts/'
-    fields:
