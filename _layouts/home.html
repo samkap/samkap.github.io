@@ -24,13 +24,6 @@ layout: default
       <article>
       <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="post-container">
-        <div class="cover-image-container">
-          {% if post.cover-image %}
-          <img alt="thumbnail for post" src="{{ post.cover-image }}?nf_resize=fit&w=100">
-          {% else %}
-          <img alt="thumbnail for post" src="img/ampersam.svg?nf_resize=fit&w=40" style="opacity: .5;">
-          {% endif %}
-        </div>
         <div class="post-container__text">
           <span class="meta">{{ post.date | date: site.date_format }}</span>
           <h3>{{ post.title }}</h3>
