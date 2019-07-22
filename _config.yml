@@ -6,8 +6,7 @@ collections:
     output: true
     permalink: clips/:year/:month/:day/:title
     layout: clip
-    values:
-      layout: clips
+
   food:
     title: Food
     output: true
@@ -16,12 +15,10 @@ collections:
     title: Posts
     output: true
     layout: post
-    values:
-      layout: posts
   uploads:
     title: Uploads
     output: true
-description: Sameera Kapila is a designer, speaker, writer, and educator based in Austin. She is a Design Director at thoughtbot and always cooking.
+description: Sameera Kapila is a product designer, speaker, writer, and educator based in Austin. She is a Design Director at thoughtbot and always cooking.
 baseurl:
 url: https://samkapila.com
 twitter_username: samkap
