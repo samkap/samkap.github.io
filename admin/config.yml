@@ -10,6 +10,7 @@ collections:
     label: "Posts" # Used in the UI
     folder: "_posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    sort: "date:desc"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -17,4 +18,16 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Cover image", name: "cover-image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "clips" # Used in routes, e.g., /admin/collections/blog
+    label: "Clips" # Used in the UI
+    folder: "_clips/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    sort: "date:desc"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", displayFields: ["title"], searchFields: ["title"], valueField: "title", multiple: true}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "clip"}
       - {label: "Body", name: "body", widget: "markdown"}
