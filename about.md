@@ -2,7 +2,7 @@
 title: about
 permalink: "/about/"
 position: 4
-layout: page
+layout: about
 ---
 
 # Hi, I'm Sameera.
