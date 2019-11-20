@@ -25,4 +25,5 @@ fields:
   config:
     required: true
 pages:
+- _posts/the-communal-cycle-of-sharing-now-on-css-tricks.md
 - _posts/2019-05-20-notes-from-going-down-the-rabbit-hole-esther-perel.md
