@@ -10,7 +10,7 @@
 <!-- og tags -->
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }} » {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:locale" content="en_US"> {% if page.og-image %}
+<meta property="og:locale" content="en_US"> {% if page.cover-image %}
 <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}"> {% else %}
 <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/samkap,w_317.jpg"> {% endif %}
 <meta property="og:type" content="website">
@@ -22,6 +22,7 @@
 <meta name="twitter:creator" content="samkap">
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }} » {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{{ site.description }}">
+{% if page.cover-image %}
 <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}"> {% else %}
 <meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/samkap,w_317.jpg"> {% endif %}
 
