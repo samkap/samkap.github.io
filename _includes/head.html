@@ -4,36 +4,21 @@
 <meta name="description" content="{{ page.summary }} {{ site.description }}">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ site.baseurl }}/feed.xml">
 <meta name="google-site-verification" content="l1IVAKljgrF-R5QSMkS4ECiHDzWUK08Xb8YHxe8d7-0" />
-<!-- icons -->
 <link rel="shortcut icon" href="{{ site.baseurl }}/img/favs/favicon.ico">
-<!-- /icons -->
-<!-- og tags -->
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="» {{ page.title }}">
 <meta property="og:locale" content="en_US">
-{% if page.cover-image %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.cover-image }}">
-{% else %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/samkap,w_317.jpg">
-{% endif %}
+{% if page.cover-image %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.cover-image }}">{% else %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/samkap,w_317.jpg">{% endif %}
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 <meta property="og:description" content="{{ site.description }}">
-
 <meta name="twitter:card" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}">
 <meta name="twitter:site" content="@samkap">
-<meta name="twitter:creator" content="samkap">
+<meta name="twitter:creator" content="@samkap">
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }} » {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-<meta name="twitter:description" content="{{ site.description }}">
-{% if page.cover-image %}
-  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.cover-image }}">
-{% else %}
-  <meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/samkap,w_317.jpg">
-{% endif %}
+<meta name="twitter:description" content="{{ site.description }}">{% if page.cover-image %}<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.cover-image }}">{% else %}<meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/samkap,w_317.jpg">{% endif %}
 
 <link rel="stylesheet" href="https://use.typekit.net/ibi2nzd.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
-{% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
+{% if site.tags != "" %}{% include collecttags.html %}{% endif %}
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
