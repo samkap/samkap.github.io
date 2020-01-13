@@ -1,11 +1,11 @@
 ---
-layout: clip 
-tags: clips 
-published: true 
-title: "Link: Design Sprint X  —  Articles" 
-date: 2020-01-13T03:05:03.618Z 
-link: https://designsprintx.com/articles/ 
-ogtype: article 
+layout: clip
+tags: clips
+published: true
+title: "Link: Design Sprint X" 
+date: 2020-01-13T03:05:03.618Z
+link: https://designsprintx.com/articles/
+ogtype: article
 ---
-[Design Sprint X  —  Articles](https://designsprintx.com/articles/) 
+[Design Sprint X  —  Articles](https://designsprintx.com/articles/)
 Via Devin at work including a crazy 8's timer.
