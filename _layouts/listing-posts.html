@@ -9,9 +9,9 @@ layout: default
   <article>
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-container">
        <div class="post-container__text">
-         <small class="meta">{{ post.date | date: site.date_format }}</small>
+         <span class="meta">{{ post.date | date: site.date_format }}</span>
          <h2>{{ post.title }}</h2>
-         <p>{{ post.content | truncatewords:30 | strip_html }}</p>
+         <p>{{ post.content | truncatewords:40 | strip_html }}</p>
        </div>
      </a>
    </article>

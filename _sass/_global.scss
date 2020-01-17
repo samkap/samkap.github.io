@@ -25,7 +25,7 @@ body {
   -webkit-font-smoothing: antialiased;
   color: $color1;
   font-display: auto;
-  font-family: $serif;
+  font-family: $sans;
   font-size: $base-font-size;
   font-weight: 400;
   height: 100%;
@@ -159,7 +159,7 @@ footer {
   }
 
   .copy {
-    font-family: $sans;
+    font-family: $serif;
     font-size: 1.2em;
   }
 }

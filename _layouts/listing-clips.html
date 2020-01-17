@@ -9,7 +9,7 @@ layout: default
 
   {% for post in clips  %}
 <article>
-  <small class="meta">{{ post.date | date: site.date_format }}</small>
+  <span class="meta">{{ post.date | date: site.date_format }}</span>
   <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
   <p>{{ post.content | truncatewords:30 | strip_html }}</p>
 </article>

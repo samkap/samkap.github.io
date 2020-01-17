@@ -2,6 +2,7 @@
 ---
 
 /* ********************global********************* */
+
 $color1: #004a55;
 $color2: rgb(109, 164, 60);
 $color3: #f87d09;
@@ -13,10 +14,13 @@ $gray: #f2f3f3;
 $beige: #f8f8f8;
 $white: #ffffff;
 $shadow: 0 0 3px rgba(0, 0, 0, 0.1);
-$sans: vista-sans-narrow, sans-serif;
-$serif: fairplex-wide, serif;
+$serif:	RecoletaAlt-Regular;
+$serif-bold: RecoletaAlt-Bold;
+$sans: RozanovaHUM-Light;
+$sans-bold: RozanovaHUM-Bold;
+$sans-italic: RozanovaHUM-LightIT;
 
-$max-w-base: 800px;
+$max-w-base: 700px;
 $base-font-size: 1.2em;
 $base-spacing: 1rem;
 $base-line-height: 1.8;
@@ -34,4 +38,5 @@ $xx-large-spacing: $base-spacing * 4;
 @import "../_sass/img_videos";
 @import "../_sass/posts";
 @import "../_sass/home";
+@import "../_sass/fonts";
 @import "../_sass/inclusion_books";
