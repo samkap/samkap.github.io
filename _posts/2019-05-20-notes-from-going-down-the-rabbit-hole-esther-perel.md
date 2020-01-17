@@ -19,7 +19,10 @@ She's a therapist and author to works with and writes about relationships, infid
 
 I didn't take notes for all of this, as I was also [making dinner](https://www.instagram.com/p/BxtYDnMFGAY/?igshid=psgflf9suu4h) but thought I'd share what I gathered while watching and listening from at least one of her talks.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5iu9_8Vsmtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="limit">
+<div class='embed-container'><iframe src='https://www.youtube.com/embed//5iu9_8Vsmtk' frameborder='0' allowfullscreen></iframe></div>
+</div>
+
 
 ### Notes
 

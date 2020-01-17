@@ -56,9 +56,9 @@ a.read-more {
     max-width: $max-w-base;
   }
 
-  .full {
-    max-width: 100%;
-  }
+h2, h3 {
+  font-family: $serif-bold; 
+}
 
   p {
     font-weight: 400;
