@@ -1,7 +1,7 @@
 ---
 title: iOS linking
 date: 2020-01-21 00:00:00 -0600
-cover-image: ''
+cover-image: img/posts/patio-e-pepe.jpg
 tags:
 - mobile
 - development
