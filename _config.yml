@@ -33,7 +33,6 @@ sass:
   style: compressed
 plugins:
   - bourbon
-  - jekyll-feed
   - jekyll-twitter-plugin
 exclude:
   - Gemfile
