@@ -10,15 +10,16 @@
 <!-- og tags -->
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:locale" content="en_US"> {% if page.og-image %}
-<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}"> {% else %} {% if page.cover-image %}
-<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}"> {% else %}
-<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/og-image.jpg"> {% endif %} {% endif %}
+<meta property="og:locale" content="en_US">  {% if page.cover-image %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.cover-image }}"> {% else %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/samkap,w_190.jpg"> {% endif %}
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 <meta property="og:description" content="{{ site.description }}">
   <meta name="twitter:creator" content="@samkap" />
-  <meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}">
+  {% if page.cover-image %}
+ <meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.cover-image }}"> {% else %}
+ <meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/samkap,w_190.jpg"> {% endif %} 
   <meta name="twitter:site" content="@samkap" />
   <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta name="twitter:card" content="summary" />
