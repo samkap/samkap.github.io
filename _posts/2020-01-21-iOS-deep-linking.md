@@ -57,3 +57,8 @@ It's so interesting to me that this behavior is so different between the two app
 Another thing that fascinating about this is that it gives me flashbacks to conversations about `href` targets in HTML and whether `_blank` was okay to use and when. It's fascinating watching the young adult field of web building, watch its teenage sibling grapple with the same thing they went through years before.
 
 Finally, the last thing that really fascinated me is the type of music everyone shared. Hope y'all enjoy the playlist.
+
+
+Also, if you're into Apple Music, my internet friend [Charles](https://twitter.com/charlesv/status/1219534732066770944?s=20) made the Apple Music of the list!
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/patio-e-pepe/pl.u-qpaRaFogEP4"></iframe>
