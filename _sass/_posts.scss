@@ -12,27 +12,21 @@ a.read-more {
 }
 
 .pagination {
+  color: $color2;
   font-family: $serif;
-  font-weight: 600;
-  margin-top: -30px;
-  padding-bottom: 50px;
-}
 
-.pagination a {
-  background-image: none;
-  text-decoration: none;
-}
+  a {
+    background-image: none;
+    text-decoration: none;
+  }
 
-.pagination .disabled {
-  color: gray;
-}
+ .left {
+    float: left;
+  }
 
-.pagination .left {
-  float: left;
-}
-
-.pagination .right {
-  float: right;
+  .right {
+    float: right;
+  }
 }
 
 #disqus_thread {
@@ -52,12 +46,13 @@ a.read-more {
   span,
   ul,
   ol,
+  .pagination,
   .tags {
     max-width: $max-w-base;
   }
 
 h2, h3 {
-  font-family: $serif-bold; 
+  font-family: $serif-bold;
 }
 
   p {

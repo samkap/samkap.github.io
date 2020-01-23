@@ -106,7 +106,7 @@ blockquote {
   font-family: $serif;
   font-style: italic;
   font-weight: 500;
-  margin: 20px 0;
+  margin: 20px 0 20px 15px;
   overflow: hidden;
   padding: 50px;
 
@@ -178,6 +178,10 @@ small a {
     list-style-type: none;
     margin-bottom: 3em;
     max-width: $max-w-base;
+  }
+
+  article {
+    margin-bottom: 1em;
   }
 
   p {
@@ -252,13 +256,10 @@ h4 a {
   ul {
     margin-bottom: 60px;
 
-    @media screen and (max-width: 1080px) {}
+  @media screen and (max-width: 1080px) {}
 
-    @media screen and (max-width: 680px) {}
+  @media screen and (max-width: 680px) {}
   }
-
-  li {
-    }
 }
 
 .listing-posts {

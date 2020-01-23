@@ -6,7 +6,6 @@ collections:
     output: true
     permalink: clips/:year/:month/:day/:title
     layout: clip
-
   food:
     title: Food
     output: true
@@ -42,7 +41,6 @@ exclude:
 date_format: "%b %-d, %Y"
 logo-image: "/img/ampersam.svg"
 nav-breaking-point: 520px
-paginate_path: "/page-:num/"
 sitemap:
   filename: "/sitemap.xml"
   exclude:
@@ -57,3 +55,10 @@ sitemap:
 github:
   repo: samkap/samkap.github.io
   branch: master
+pagination:
+  enabled: true
+  collection: 'posts'
+  per_page: 10
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
