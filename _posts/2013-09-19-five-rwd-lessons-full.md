@@ -2,15 +2,16 @@
 title: Five Lessons from the RWD Classroom
 date: 2013-09-19 19:00:00 -05:00
 tags:
-- rwd
-- writing
-- students
-- texas state
-- teaching
+  - rwd
+  - writing
+  - students
+  - texas-state
+  - teaching
 layout: post
 ---
 
 I’ve taught Responsive Web Design (RWD) at a large state university just outside Austin, Texas, for the past two years to almost 200 design students. With support from my colleagues and a handful of designers and agencies in Austin providing priceless input, writing the curriculum for the course was exciting, but not easy. I wanted to make sure that I had a solid curriculum in place that, like its subject matter, could be fluid and iteratively developed to reflect the industry’s needs. I also wanted to have a component where students meet professionals and participate in internships so a big part of the course work includes opportunities to learn from and work with industry professionals in Austin and beyond. Our program also has a modest device lab that fits perfectly into a custom-built briefcase. All these elements together provide what I think is a real-world experience for my students—and I want to keep taking it further.
+
 <p>I always expected that RWD would add to the students’ toolkits, but I never expected that it would entirely shift their way of thinking, or even my own. I’ve realized I’m not just teaching RWD, specifically, but that by teaching responsive design, I’m teaching the following key principles of design as a whole:</p>
 <h3>1. Be Flexible and Adapt</h3>
 <p>At a recent talk at the university, Happy Cog designers Sophie Shepherd and Kevin Sharon, shared my favorite answer to every question asked about web design: “It depends”. Responsive Web Design focuses on being flexible and adapting (although, there is a lot more to it than just that). What works for one responsive site may not work for another. Each problem requires a different process that must be tailored reach the best design solution. For some designers that process includes creating Photoshop or Keynote comps, or using <a href="http://www.styletil.es">StyleTiles</a> or <a href="http://danielmall.com/articles/rif-element-collages/">Element Collages</a>, or designing in the browser. Each project or client may need one process over the other. Be open to any of them, or make your own process. Follow what makes sense for the task at hand, rather than a trend that you see is out there.</p>

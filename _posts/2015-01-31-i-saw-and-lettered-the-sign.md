@@ -4,12 +4,12 @@ date: 2015-01-31 18:00:00 -06:00
 layout: post
 desc: Making a sign for the iron yard
 tags:
-- projects
-- austin
-- design
-- Diy
-- launch
-- process
+  - projects
+  - austin
+  - design
+  - diy
+  - launch
+  - process
 ---
 
 I found an old wood Texas sign at the [Austin Antique Mall](http://austinantiquemall.com/), and the inner-most parts of me got very excited about the ideas rushing through my head.

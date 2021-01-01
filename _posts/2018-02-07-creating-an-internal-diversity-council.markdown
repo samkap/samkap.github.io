@@ -2,18 +2,18 @@
 title: Creating an Internal Diversity Council
 date: 2018-02-07 11:38:00 -06:00
 tags:
-- diversity
-- inclusion
-- the-iron-yard
-- leadership
-- equality
-- students
-- teaching
+  - diversity
+  - inclusion
+  - the-iron-yard
+  - leadership
+  - equality
+  - students
+  - teaching
 cover-image: img/posts/diversitycouncil-tiy.png
 layout: post
 ---
 
-*This is the first part in a series about the experience of starting and running a diversity council. In the first post, I share what inspired us and how we got started. In future posts, I’ll share what we achieved in the year we operated and lessons learned along the way.*
+_This is the first part in a series about the experience of starting and running a diversity council. In the first post, I share what inspired us and how we got started. In future posts, I’ll share what we achieved in the year we operated and lessons learned along the way._
 
 In the late Spring of 2016, my TIY colleague, [Jessica](https://twitter.com/JessicaMitsch) (now CEO and co-founder of [Momentum Learning](https://www.momentumlearn.com) in the Research Triangle), and I worked on another project together like we had for years; across state lines or together on trains, planes, and automobiles. Jessica came to me with the idea of starting an internal Diversity Council. For months before the council began, we worked on our ideal council structure, our mission, measurable goals for staff and students, and transparency with the rest of the team. We were committed to creating the first ERG, or employee resource group, at work.
 
@@ -23,13 +23,11 @@ In March 2016, we visited the White House to pledge our participation for The Op
 
 ## Setting up the Council
 
-![diversitycouncil-tiy.png](/img/diversitycouncil-tiy.png)
+![diversitycouncil-tiy.png](/img/posts/diversitycouncil-tiy.png)
 {: .full}
 
 In the early summer of 2016, we strategized the formation of the council. Through brainstorming and reflecting with our company, we focused the Council on five pillars: Staff, Students, Community, Scholarships, and Communication. **By organizing into these five focus areas was instrumental, each pillar task force is able to focus on tangible and achievable goals.** We officially began our work on September 1st, 2016. Weeks earlier, in a company-wide email, we shared the goals and intended structure for the council and our one-year minimum appointment. We shared our quarterly schedule, definitions of each pillar, and the nomination process. The council included members of Academics, Operations, Human Resources, Corporate Training, Marketing, and Product.
 
 For each of the pillars, two team members served as co-chairs to provide backup when needed and a sounding board for initiatives. The remaining team members volunteered to help in areas they felt most equipped. When we formed, we had about 20 members in our council, while our company was just over 100. This was incredibly encouraging and energizing.
 
-
-
-*The next post will include our kick-off and council actions. For more D&I resources, stop by [here](http://samkapila.com/inclusion), or [watch my Creative Mornings talk](https://creativemornings.com/talks/sam-kapila/).*
+_The next post will include our kick-off and council actions. For more D&I resources, stop by [here](http://samkapila.com/inclusion), or [watch my Creative Mornings talk](https://creativemornings.com/talks/sam-kapila/)._

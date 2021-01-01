@@ -3,12 +3,12 @@ title: NBSP returns live with Micah Godbolt
 date: 2015-02-23 18:00:00 -06:00
 layout: post
 tags:
-- podcasts
-- austin
-- Sketchnotes
-- design
-- process
-- education
+  - podcasts
+  - austin
+  - sketchnotes
+  - design
+  - process
+  - education
 ---
 
 Good news, y’all! [NBSP](http://goodstuff.fm/nbsp) is back on GoodStuff.fm and recording live using Google Hangouts Air with Youtube.
