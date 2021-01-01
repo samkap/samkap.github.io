@@ -141,7 +141,7 @@ permalink: "/add-draft.html"
 				data: JSON.stringify({
 					content: btoa(unescape(encodeURIComponent(p_body))),
 					message: 'posted via web',
-					branch: '{{ site.github.branch }}'
+					branch: 'main'
 				}),
 				beforeSend: function(xhr) {
 					xhr.setRequestHeader("Authorization", "Basic " + btoa(user+":"+password));
