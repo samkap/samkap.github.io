@@ -54,11 +54,11 @@ sitemap:
   priority_name: priority
 github:
   repo: samkap/samkap.github.io
-  branch: master
+  branch: main
 pagination:
   enabled: true
-  collection: 'posts'
+  collection: "posts"
   per_page: 10
-  title: ':title - page :num'
-  sort_field: 'date'
+  title: ":title - page :num"
+  sort_field: "date"
   sort_reverse: true
