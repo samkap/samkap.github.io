@@ -2,7 +2,8 @@
 title: Shop Talk Show Episode № 121
 date: 2014-06-26 19:00:00 -05:00
 tags:
-- podcasts,rwd
+  - podcasts
+  - rwd
 layout: post
 cover-image: img/posts/shoptalk_logo.png
 ---

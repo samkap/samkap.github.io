@@ -3,12 +3,12 @@ title: Sketchnotes with Margot Bloomstein on NBSP
 date: 2015-03-03 18:00:00 -06:00
 layout: post
 tags:
-- podcasts
-- austin
-- Sketchnotes
-- design
-- process
-- education
+  - podcasts
+  - austin
+  - sketchnotes
+  - design
+  - process
+  - education
 cover-image: img/posts/margotsketches.jpg
 ---
 
