@@ -3,10 +3,10 @@ title: Grok in one photo
 date: 2015-05-14 19:00:00 -05:00
 layout: post
 tags:
-- conference
-- design
-- travel
-- the-iron-yard
+  - conferences
+  - design
+  - travel
+  - the-iron-yard
 cover-image: img/posts/draplin.gif
 ---
 

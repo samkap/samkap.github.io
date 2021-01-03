@@ -3,13 +3,13 @@ title: Global Diversity CFP Day — Austin edition
 date: 2018-02-05 18:46:00 -06:00
 tags:
   - diversity
-  - conferences
+  - conferencess
   - speaking
   - women
   - community
   - global
 layout: post
-cover-image: 
+cover-image:
 ---
 
 Over the weekend, my sister, Dee (a Product Manager at VISA) and I mentored a workshop at the Austin event for [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/), a worldwide, day-long event featuring "numerous workshops hosted around the globe encouraging and advising newbie speakers to put together \[their\] very first talk proposal and share \[their\] own individual perspective on any subject of interest to people in tech".

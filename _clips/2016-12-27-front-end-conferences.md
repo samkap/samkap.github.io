@@ -4,7 +4,7 @@ date: 2016-12-27 02:22:00 -06:00
 tags:
 - clips
 tags:
-- conferences
+- conferencess
 - development
 crosspost_to_medium: false
 layout: clip

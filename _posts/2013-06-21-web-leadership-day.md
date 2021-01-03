@@ -2,13 +2,14 @@
 title: Web Leadership Day
 date: 2013-06-21 19:00:00 -05:00
 tags:
-- video
-- speaking
-- austin
-- rwd
-- conference
+  - video
+  - speaking
+  - austin
+  - rwd
+  - conferences
 layout: post
-desc: A video of the panel I moderated during Web Leadership Day, about native versus
+desc:
+  A video of the panel I moderated during Web Leadership Day, about native versus
   web apps. Other panelists included Sophie Shepherd, Happy Cog; Phil Coffman, Element
   Group; and Anthony Armendariz, FunSize Co.
 ---
