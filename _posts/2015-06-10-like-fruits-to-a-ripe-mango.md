@@ -2,14 +2,15 @@
 title: Like Fruits to A Ripe Mango
 date: 2015-06-10 19:00:00 -05:00
 layout: post
-desc: 
+desc:
 tags:
-- writing
-- conference
-- design
+  - writing
+  - conferences
+  - design
 ---
 
-*This piece was originally writen and published for [The Pastry Box Project](https://the-pastry-box-project.net/sameera-kapila/2015-june-11)*
+_This piece was originally writen and published for [The Pastry Box Project](https://the-pastry-box-project.net/sameera-kapila/2015-june-11)_
+
 <p>On April 14th, 2015, everyone was in a frenzy on Twitter. No, it wasn’t because tax day was creeping up on us. It was because a presidential campaign released a logo. One single logo. And from the moment it was released, designers were on it like fruit flies to a ripe mango! And designers were mean. It seemed like one designer after another tried to one-up each other and see who could be the meanest of them all in 140 characters. But this isn’t about stopping feelings or opinions; we do this all the time, right? We live tweet WWDC, TV shows, NBA finals, those awkward first dates we overhear at coffee shops, and now design, which is <em>sort of</em> what social media is for. I get all of that. But as I read this, I can’t help but think about where Design (capital D, as in the industry) is currently, where it was, and where it will continue to go. And I was extremely frustrated with Twitter that day. After reading everyone’s opinions on the letter H and an arrow, I went on my own <a href="https://twitter.com/samkap/status/588117779242442753">140-character-times-like-10 rant</a>. Design isn’t just about end-result visuals—we know that, right? We have a lot more to think about these days, and countless books, conference talks, and workshops are focusing more on experience, the user, and design research. So why were be ripping one design apart like this? After all, we are designers, too.</p>
 <p>I can agree that a bold sans-serif capital ‘H’ reminds me of a hospital sign. That critique is not far off, because designers know that what we put into design still has connotations of past experiences and other design and art we’re exposed to. That plays into design research and history, intentionally or not. But some of the other critiques that came from that day on Twitter made designers look unprofessional and whiny, and said a lot about where we are as an industry. Some of the feedback that I came across that day:</p>
 <ol>

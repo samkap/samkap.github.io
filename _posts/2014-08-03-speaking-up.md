@@ -2,11 +2,11 @@
 title: Speaking Up
 date: 2014-08-03 19:00:00 -05:00
 tags:
-- conference
-- speaking
-- articles
-- writing
-- education
+  - conferences
+  - speaking
+  - articles
+  - writing
+  - education
 layout: post
 ---
 
@@ -20,9 +20,10 @@ As ConvergeSE drew closer, my outline turned into notes, notes into sentences, s
 
 I was still in Austin when I panicked. I played it off at first, [joking about it](https://twitter.com/samkap/status/461710777179582464) and local Austinites, like Elyse and Trent, and my former student Veronica, were all encouraging. But, eventually, the panic became more real. What was I panicking about? Speaking at a conference where the other keynotes are people who I admire and who wrote the textbooks I teach from. Just making a fool of myself in front of 300\+ people. Feeling that no one could learn or benefit from what I had to say. Falling off the stage. Spilling coffee on myself. The list goes on. I started seeking out a lot of advice, thinking it would be helpful. My close friends encouraged me. I ran main points by my sister, who is a much better public speaker than I and also knows first-hand exactly what I wanted to cover in my talk (she, too has seen the challenges of trying to bring emerging practices in web design and development into higher education settings). She (and my cats) heard every single version of my talk, and she knows how scattered I can sound sometimes, and she’s honest enough to tell me when I can. That was also extremely helpful. I was still worried.
 
-I couldn’t shake it, even after I got to the conference. I felt like I needed more advice and that I was unprepared. I think deep down I wanted to make sure I covered all bases and asked every single person what their advice was. I didn’t want my first time on a stage *by myself* to be a bust. So I asked [Dan Mall](http://www.twitter.com/danielmall), who has an amazing speaking style, what his advice was on conference talks. Since I asked on Twitter, I expected a concise reply, but Dan replied that he would email me in the morning. The next morning, I woke up early, as I usually do when I’m nervous about anything. I opened my computer as my hotel coffee brewed, and found an email sitting in my inbox from Dan. It’s like he knew each of my fears and had solutions on how to get over each one. The advice Dan gave me was not only helpful, but it extremely awesome of him to do so. People like Dan make this industry a better place. Recently, Dan shared his advice on [his site](http://danielmall.com/articles/get-comfortable/). The best parts of Dan’s advice were the parts where he suggested getting comfortable, scoping out the room prior to the talk, and building in pauses. In hindsight, those were the most helpful to me.
+I couldn’t shake it, even after I got to the conference. I felt like I needed more advice and that I was unprepared. I think deep down I wanted to make sure I covered all bases and asked every single person what their advice was. I didn’t want my first time on a stage _by myself_ to be a bust. So I asked [Dan Mall](http://www.twitter.com/danielmall), who has an amazing speaking style, what his advice was on conference talks. Since I asked on Twitter, I expected a concise reply, but Dan replied that he would email me in the morning. The next morning, I woke up early, as I usually do when I’m nervous about anything. I opened my computer as my hotel coffee brewed, and found an email sitting in my inbox from Dan. It’s like he knew each of my fears and had solutions on how to get over each one. The advice Dan gave me was not only helpful, but it extremely awesome of him to do so. People like Dan make this industry a better place. Recently, Dan shared his advice on [his site](http://danielmall.com/articles/get-comfortable/). The best parts of Dan’s advice were the parts where he suggested getting comfortable, scoping out the room prior to the talk, and building in pauses. In hindsight, those were the most helpful to me.
 
 > Doing a talk is like improvisational jazz. Jazz musicians improvise, not because they don’t know the song, but because they know the song so well that they know which spots allow them to deviate and when to come back to the theme.
+>
 > <footer><cite>— [Dan Mall](http://danielmall.com/articles/get-comfortable/)</cite></footer>
 
 ### The Talk
@@ -37,19 +38,19 @@ I was happy I spoke, and knew that I need to do this more. Speaking and writing 
 
 ### Links I found extremely helpful
 
-* Daniel Mall’s “[Get Comfortable](http://danielmall.com/articles/get-comfortable/)”
+- Daniel Mall’s “[Get Comfortable](http://danielmall.com/articles/get-comfortable/)”
 
-* [Speaking.io](http://speaking.io/)
+- [Speaking.io](http://speaking.io/)
 
-* Rachilli’s [advice on speaking ](https://www.rachil.li/blog/on-speaking-my-personal-experiences-and-advice-for-getting-started)
+- Rachilli’s [advice on speaking ](https://www.rachil.li/blog/on-speaking-my-personal-experiences-and-advice-for-getting-started)
 
-* Jenn Lukas’ [formula for speaking fees](http://www.thenerdary.net/post/84544230452/a-formula-for-speaking-fees) ; this post also has a ton of resources at the end.
+- Jenn Lukas’ [formula for speaking fees](http://www.thenerdary.net/post/84544230452/a-formula-for-speaking-fees) ; this post also has a ton of resources at the end.
 
-* Scott Berkun’s plethora of [resources and posts about public speaking](http://scottberkun.com/category/public-speaking/)
+- Scott Berkun’s plethora of [resources and posts about public speaking](http://scottberkun.com/category/public-speaking/)
 
-* Chris Coyier’s [speaking advice](http://chriscoyier.net/2013/09/17/speaking-tips/)
+- Chris Coyier’s [speaking advice](http://chriscoyier.net/2013/09/17/speaking-tips/)
 
-* A [list of other speaking resources](http://getspeak.in/public-speaking/) shared by [Christopher Murphy](https://twitter.com/fehler)
+- A [list of other speaking resources](http://getspeak.in/public-speaking/) shared by [Christopher Murphy](https://twitter.com/fehler)
 
 <p class="caption">
 I’m not good at keeping new year resolutions, but I am a fan of having goals for a new year. Some of my loose goals for 2014, were to get over a few of my fears. On my somewhat long list of fears is writing and speaking publicly, and skiing. As of August, I’ve tackled all of these fears in some way or another. Perhaps, I’m not over them, but I have moved in the right direction to be more at peace with them.</p>
