@@ -71,8 +71,6 @@ I write and participate in the design and development community. Along with bein
 
 -   [ShopTalk Show](http://www.shoptalkshow.com/episodes/121-sam-kapila/), June 2014
 
--   [Show Me Your Mic](http://goodstuff.fm/smym/39), Mar 2014
-
 -   [The ATX Web Show](http://atxwebshow.com/2013/05/16/64-with-sam-kapila/), May 2013
 
 -   [The East Wing](http://5by5.tv/eastwing/52), Apr 2013
